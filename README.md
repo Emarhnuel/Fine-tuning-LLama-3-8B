@@ -4,6 +4,8 @@ This repository contains code and resources for fine-tuning the LLaMA-3 8B langu
 
 ## Key Points
 
-Framework:  [llama3](https://llama.meta.com/llama3), Unsloth, TRL  [GitHub Pages](https://pages.github.com/)
-Datasets: Briefly describe any included datasets or instructions on how to prepare your own.
-Purpose: State the specific goal(s) of the fine-tuning (e.g., question answering, text summarization, etc.).
+* Framework:  [llama3](https://llama.meta.com/llama3), [Unsloth](https://github.com/unslothai/unsloth), [huggingface](https://huggingface.co)
+* Datasets: [medical_llama3_instruct_dataset](https://huggingface.co/datasets/Shekswess/medical_llama3_instruct_dataset?row=26).
+* Purpose: The purpose of this project is to fine-tune LLama3 on a medical dataset to be used in creating a medical chatbot.
+
+  
